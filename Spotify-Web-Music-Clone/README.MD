@@ -6,6 +6,8 @@ This project focuses on **layout structure, visual hierarchy, component consiste
 
 The design demonstrates how complex web applications can be broken down into reusable components while maintaining brand identity and usability.
 
+https://github.com/user-attachments/assets/e4247f83-7570-4182-a29a-56a8ecf202f6
+
 ---
 
 ## 🎯 Objectives
