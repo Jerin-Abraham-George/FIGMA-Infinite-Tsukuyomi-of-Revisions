@@ -5,7 +5,7 @@
 
 This project focuses on **clean mobile layouts, real product workflows, component consistency, and user-centric design patterns** commonly used in modern food delivery apps.
 
-https://github.com/user-attachments/assets/87dd83f8-c201-4b31-9276-7f58854b58bc
+
 
 ---
 
