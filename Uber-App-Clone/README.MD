@@ -5,6 +5,8 @@ The **Uber App Clone** is a complete **mobile UI/UX design project** created in 
 
 This project demonstrates a **map-centric user experience**, guiding users through authentication, ride booking, live ride tracking, payments, ratings, ride history, and account management — all structured using modern mobile UX patterns such as bottom sheets and step-based flows.
 
+https://github.com/user-attachments/assets/ac6e6fdb-d9eb-466a-9670-13337077b188
+
 ---
 
 ## 🎯 Objectives
