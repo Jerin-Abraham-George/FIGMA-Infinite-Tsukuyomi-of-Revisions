@@ -5,6 +5,8 @@
 
 The project covers the complete shopping journey — from splash onboarding and product discovery to detailed product customization, cart management, and order confirmation.
 
+https://github.com/user-attachments/assets/7ca64bca-eb94-4bed-be42-6479837b97d2
+
 ---
 
 ## 🎯 Objectives
