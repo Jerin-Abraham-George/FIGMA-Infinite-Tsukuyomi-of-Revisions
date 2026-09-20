@@ -5,7 +5,9 @@ The **Chat App UI/UX Design** is a modern mobile messaging application concept d
 
 This project focuses on creating a complete and realistic user experience flow, covering onboarding, account setup, chats, groups, stories, status updates, profile management, media sharing, and other essential messaging interactions.
 
-> ⚠️ This is an independent UI/UX design project created for learning and portfolio purposes. It is not affiliated with or endorsed by WhatsApp or Meta.
+https://github.com/user-attachments/assets/4bf6ff56-9345-4e5a-bfb7-70a66337d1b8
+
+https://github.com/user-attachments/assets/1e769fc7-5757-44d1-bd19-b89329192870
 
 ---
 
