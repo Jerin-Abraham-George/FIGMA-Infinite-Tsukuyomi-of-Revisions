@@ -142,6 +142,6 @@ It showcases clean interfaces, consistent components, realistic user flows, and 
 ---
 
 💙 **Designed with Figma**  
-Exploring ideas, designing experiences, and turning interfaces into interactions.
+🎨🌙*"Exploring ideas, designing experiences, and turning interfaces into interactions."*
 
-
+---
