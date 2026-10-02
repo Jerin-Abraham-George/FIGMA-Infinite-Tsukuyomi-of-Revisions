@@ -5,6 +5,8 @@
 
 The project includes a structured **design system, reusable components, wireframes, high-fidelity screens, and interactive prototype transitions**.
 
+https://github.com/user-attachments/assets/94338876-0cca-481e-bc63-2821b140797c
+
 ---
 
 ## 🎯 Objectives
