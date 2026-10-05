@@ -5,6 +5,8 @@ The **Music Player App** is a modern mobile UI/UX project designed in **Figma**,
 
 The project explores music discovery, artist and album browsing, playlist management, and an interactive now-playing experience through a dark-themed mobile interface.
 
+https://github.com/user-attachments/assets/175726de-c60c-4c98-a711-6e3e444ba2b1
+
 ---
 
 ## 🎯 Objectives
