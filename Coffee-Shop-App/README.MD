@@ -3,6 +3,8 @@
 ## 📘 Overview
 The **Coffee Shop App** is a simple mobile UI/UX prototype designed in **Figma** to provide a convenient experience for browsing coffee, selecting drinks, managing a cart, and placing orders.
 
+https://github.com/user-attachments/assets/f3ed7b5c-5d2f-480d-979a-3698be456814
+
 ---
 
 ## 🎯 Objectives
